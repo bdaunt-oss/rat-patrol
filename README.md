@@ -1,8 +1,8 @@
 # Rat Patrol
 
-A small subway arena shooter starring a girl in a Fordham sweatshirt inspired by the movement and shooting controls of Journey of the Prairie King. All graphics are original, drawn in code.
+A small subway arena shooter starring a girl in a Fordham sweatshirt. All graphics are original, drawn in code.
 
-Author: Bernie Daunt
+Author: Bernadette Daunt
 
 ## Play
 
